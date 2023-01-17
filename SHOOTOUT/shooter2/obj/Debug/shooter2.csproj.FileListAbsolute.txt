@@ -1,0 +1,13 @@
+C:\Users\Marci\C#_projects\shooter2\shooter2\bin\Debug\shooter2.exe.config
+C:\Users\Marci\C#_projects\shooter2\shooter2\bin\Debug\shooter2.exe
+C:\Users\Marci\C#_projects\shooter2\shooter2\bin\Debug\shooter2.pdb
+C:\Users\Marci\C#_projects\shooter2\shooter2\obj\Debug\shooter2.csproj.AssemblyReference.cache
+C:\Users\Marci\C#_projects\shooter2\shooter2\obj\Debug\shooter2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marci\C#_projects\shooter2\shooter2\obj\Debug\shooter2.MainForm.resources
+C:\Users\Marci\C#_projects\shooter2\shooter2\obj\Debug\shooter2.Properties.Resources.resources
+C:\Users\Marci\C#_projects\shooter2\shooter2\obj\Debug\shooter2.csproj.GenerateResource.cache
+C:\Users\Marci\C#_projects\shooter2\shooter2\obj\Debug\shooter2.csproj.CoreCompileInputs.cache
+C:\Users\Marci\C#_projects\shooter2\shooter2\obj\Debug\shooter2.exe
+C:\Users\Marci\C#_projects\shooter2\shooter2\obj\Debug\shooter2.pdb
+C:\Users\Marci\C#_projects\shooter2\shooter2\obj\Debug\shooter2.gf.resources
+C:\Users\Marci\C#_projects\shooter2\shooter2\obj\Debug\shooter2.GamemodeSelection.resources
